@@ -1,0 +1,58 @@
+--------------------------------------------------
+[2025-06-17T09:25:04] 🚀 Démarrage du processus...
+
+[2025-06-17T09:25:04] ✅ Connexion Data Warehouse établie. Version : Microsoft SQL Server 2016 (SP3-GDR) (KB5042207) - 13.0.6445.1 (X64)
+[2025-06-17T09:25:05] ✅ Token généré avec succès
+
+[2025-06-17T09:25:05] ✅ 4 commandes supprimées de TM_MAD_DROPFR_ventes
+[2025-06-17T09:25:05] ✅ 3 produits supprimés de TM_MAD_DROPFR_Products
+[2025-06-17T09:25:05] ✅ 3 catégories supprimées de TM_MAD_DROPFR_Categories
+[2025-06-17T09:25:05] ✅ 112 attributs supprimés de TM_MAD_DROPFR_Attributes
+
+[2025-06-17T09:25:05] 📜 Récupération des commandes - Page 1
+[2025-06-17T09:25:07] 📦 4 commandes récupérées sur cette page
+[2025-06-17T09:25:07] ✅ Référence client trouvée : 00000018VMMT
+[2025-06-17T09:25:07] ✅ productId trouvé : HOM3662970001080
+[2025-06-17T09:25:07] 📍 SiteID récupéré pour cette commande : 11227
+[2025-06-17T09:25:08] ✅ Référence client trouvée : 00000018VMMT
+[2025-06-17T09:25:08] ✅ productId trouvé : HOM3662970001080
+[2025-06-17T09:25:08] 📍 SiteID récupéré pour cette commande : 11227
+[2025-06-17T09:25:08] ✅ Référence client trouvée : 00000018VMMT
+[2025-06-17T09:25:08] ✅ productId trouvé : AUC3662970016107
+[2025-06-17T09:25:08] 📍 SiteID récupéré pour cette commande : 11227
+[2025-06-17T09:25:08] ✅ Référence client trouvée : 00000018VMMT
+[2025-06-17T09:25:08] ✅ productId trouvé : AUC3662970016022
+[2025-06-17T09:25:08] 📍 SiteID récupéré pour cette commande : 11227
+[2025-06-17T09:25:08] 📝 Insertion de la commande DROPFR2506161500532M3G dans TM_MAD_DROPFR_ventes
+[2025-06-17T09:25:08] 📝 Insertion de la commande DROPFR2506160945PDQ1J8 dans TM_MAD_DROPFR_ventes
+[2025-06-17T09:25:08] 📝 Insertion de la commande DROPFR25061607312V4KX0 dans TM_MAD_DROPFR_ventes
+[2025-06-17T09:25:08] 📝 Insertion de la commande DROPFR2505210915ZD051J dans TM_MAD_DROPFR_ventes
+[2025-06-17T09:25:08] ➡️ Passage à la page suivante : Page 2
+[2025-06-17T09:25:08] 📜 Récupération des commandes - Page 2
+[2025-06-17T09:25:10] 🟡 Aucune commande trouvée sur la page 2
+[2025-06-17T09:25:10] 🔚 Fin de la récupération des commandes.
+
+[2025-06-17T09:25:10] 🔍 Récupération des informations du produit : AUC3662970016022
+[2025-06-17T09:25:11] 📝 Insertion du produit dans TM_MAD_DROPFR_Products
+[2025-06-17T09:25:19] 📝 Insertion de la catégorie hierarchisée 0D010V dans TM_MAD_DROPFR_Categories
+[2025-06-17T09:25:19] 📥 Début de l'insertion des attributs dans TM_MAD_DROPFR_Attributes
+[2025-06-17T09:25:19] ✅ Fin de l'insertion des attributs : 42 attributs insérés dans TM_MAD_DROPFR_Attributes
+[2025-06-17T09:25:19] 🔍 Récupération des informations du produit : HOM3662970001080
+[2025-06-17T09:25:20] 📝 Insertion du produit dans TM_MAD_DROPFR_Products
+[2025-06-17T09:25:28] 📝 Insertion de la catégorie hierarchisée 0D0607 dans TM_MAD_DROPFR_Categories
+[2025-06-17T09:25:28] 📥 Début de l'insertion des attributs dans TM_MAD_DROPFR_Attributes
+[2025-06-17T09:25:28] ✅ Fin de l'insertion des attributs : 26 attributs insérés dans TM_MAD_DROPFR_Attributes
+[2025-06-17T09:25:28] 🔍 Récupération des informations du produit : AUC3662970016107
+[2025-06-17T09:25:30] 📝 Insertion du produit dans TM_MAD_DROPFR_Products
+[2025-06-17T09:25:38] 📝 Insertion de la catégorie hierarchisée 0D010V dans TM_MAD_DROPFR_Categories
+[2025-06-17T09:25:38] 📥 Début de l'insertion des attributs dans TM_MAD_DROPFR_Attributes
+[2025-06-17T09:25:38] ✅ Fin de l'insertion des attributs : 44 attributs insérés dans TM_MAD_DROPFR_Attributes
+[2025-06-17T09:25:38] 
+
+[2025-06-17T09:25:38] ✅ 4 commandes insérées dans TM_MAD_DROPFR_ventes
+[2025-06-17T09:25:38] ✅ 3 produits insérés dans TM_MAD_DROPFR_Products
+[2025-06-17T09:25:38] ✅ 3 catégories insérées dans TM_MAD_DROPFR_Categories
+[2025-06-17T09:25:38] ✅ 112 attributs insérés dans TM_MAD_DROPFR_Attributes
+
+[2025-06-17T09:25:38] 🔚 Fin du processus.
+--------------------------------------------------
